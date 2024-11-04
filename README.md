@@ -1,6 +1,6 @@
 # Actividad 3: Hadoop-Yarn-Hive-PowerBI
 
-Levantar un flujo analítico sencillo con estos servicios: Hadoop + YARN + Hive + PowerBI. No usar Spark. 
+## Levantar un flujo analítico sencillo con estos servicios: Hadoop + YARN + Hive + PowerBI. No usar Spark. 
 
 Para poder cargar datos con Power BI desde hive en hadoop y yarn necesitas tener un contenedor con hive e insertar una base de datos con una tabla con datos y el contenedor tiene que estar corriendo para poder hacer la conexión correctament.
 Aqui dejo un repositorio donde hay contenedores de hive.
